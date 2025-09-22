@@ -1,0 +1,16 @@
+{
+  "name": "zefoy-automation-panel",
+  "version": "1.0.0",
+  "description": "A web panel to automate Zefoy.com using Puppeteer for educational purposes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.5.0",
+    "socket.io": "^4.7.2"
+  }
+}
